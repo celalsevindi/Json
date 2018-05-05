@@ -1,0 +1,39 @@
+{
+"ogrenciler":[
+		{
+			"ogreci_id":"1",
+			"ogreci_adsoyad":"CELEL SEVİNDİ",
+			"ogreci_telefon_no":"02122895653",
+			"ogreci_bolum":"bilisim",
+			"ogreci_universite":"nisantasi"
+		},
+		{
+			"ogreci_id":"2",
+			"ogreci_adsoyad":"Serkan HOCAOGLU",
+			"ogreci_telefon_no":"02122834921",
+			"ogreci_bolum":"Elektronik",
+			"ogreci_universite":"Ankara Universitesi"
+		},
+		{
+			"ogreci_id":"3",
+			"ogreci_adsoyad":"Burak Kaya",
+			"ogreci_telefon_no":"02122893454",
+			"ogreci_bolum":"Elektrik/Elektronik",
+			"ogreci_universite":"-"
+		},
+		{
+			"ogreci_id":"4",
+			"ogreci_adsoyad":"Serif Gungor",
+			"ogreci_telefon_no":"02122895653",
+			"ogreci_bolum":"Bilgisayar Programcılıgı",
+			"ogreci_universite":"-"
+		},
+		{
+			"ogreci_id":"207",
+			"ogreci_adsoyad":"Şevin Celik",
+			"ogreci_telefon_no":"02122456060",
+			"ogreci_bolum":"Bilgisayar Muhendisligi",
+			"ogreci_universite":"İstanbul Universitesi"
+		}
+	]
+}
